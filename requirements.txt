@@ -1,0 +1,5 @@
+I know this isn't python but I didn't know how to name the file
+
+dotenv
+discord.js
+mineflayer
